@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<!-- REPLACE THIS FILE with the BingSiteAuth.xml Bing provides in Webmaster Tools -->
+<!-- Steps:
+     1. Go to https://www.bing.com/webmasters/
+     2. Add site: https://zoom-for-windows.com
+     3. Choose XML file verification method
+     4. Download the BingSiteAuth.xml Bing generates
+     5. Replace this file with Bing's version
+     6. Upload to your root folder
+     7. Click Verify in Bing Webmaster Tools
+-->
+<users>
+  <user>REPLACE_WITH_YOUR_BING_AUTH_CODE</user>
+</users>
